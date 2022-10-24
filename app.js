@@ -1,4 +1,4 @@
-let apiUrl = 'http://140.119.164.81:1337/db';
+let apiUrl = 'http://hi-inter.aclab.tw/db';
 /**
  * The $1 Unistroke Recognizer (JavaScript version)
  *
